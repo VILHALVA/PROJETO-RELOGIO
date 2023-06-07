@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://assets.stickpng.com/images/62b31570b223544c209f5e6f.png" align="center" width="250"> <br>
+<img src="https://cdn-icons-png.flaticon.com/256/8158/8158516.png" align="center" width="250"> <br>
 
 ## 😃DESCRIÇÃO:
 Bem-vindo ao projeto "Relógio"! Este repositório contém uma implementação de um relógio em tempo real, criado com HTML, CSS e JavaScript, que pode ser executado diretamente em seu navegador.
