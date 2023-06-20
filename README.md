@@ -21,6 +21,3 @@ Para utilizar o relógio em seu navegador, siga estas etapas simples:
 2. O relógio será exibido em seu navegador, mostrando a hora atual.
 3. O relógio será atualizado automaticamente a cada segundo, exibindo a hora correta.
 
-### 😎Contribuindo:
-Atualmente, o projeto não aceita contribuições externas. No entanto, sinta-se à vontade para explorar o código-fonte e utilizá-lo como base para criar seu próprio relógio personalizado.
-Esperamos que você ache o Relógio útil e aproveite a visualização em tempo real. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato conosco. Agradecemos por seu interesse no projeto Relógio e desejamos uma experiência agradável ao visualizar a hora atual em seu navegador!
